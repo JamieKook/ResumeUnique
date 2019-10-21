@@ -108,22 +108,33 @@ header::after{
 }
 
 .ed {
-    width: 28%; 
-    height: 300px; 
+    width: 32%; 
+    height: 500px; 
     float: left; 
     padding: 30px; 
 }
 
 .grad {
-    margin: 0 4%; 
-    background-color: #C5ECFC;
+    margin: 0 1%; 
+    /*background-color: #C5ECFC;*/
+    background-color: #CBE6EA;
+ 
 }
 
 .under {
-    margin-left: 4%; 
-    background-color: #BDD4F2;
+    margin-left: 1%; 
+   /* background-color: #BDD4F2;*/
+   background-color: #CBE6EA;
+  
 }
 
+
 .bootcamp {
-    background-color: #BDF2D6;
+   /* background-color: #BDF2D6;*/
+   background-color: #CBE6EA;
+}
+
+img {
+    height: 200px;
+
 }
