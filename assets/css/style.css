@@ -93,14 +93,14 @@ header::after{
     padding: 50px; 
 }
 
-.education {
+#education {
 
     text-align: center; 
 
 
 }
 
-.education h1 {
+#education h1 {
     background-color: #CBE6EA;
     margin-bottom: 20px;  
     width: 100%; 
